@@ -6,4 +6,4 @@ Created template website for a photo app website. However, with just little bit 
 
 ## Live view
 
-To see the live demo click (https://etp19.github.io/photo-web-app/)[here]
+To see the live demo click [https://etp19.github.io/photo-web-app/](here)
